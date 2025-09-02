@@ -11,7 +11,7 @@ export const projects = [
         title: "Plannig (P1)",
         des: "Supply Planning & Inventory Optimization at FreshBites.",
         img: "/planning.png",
-        link: "https://fresh-bites-supply-chain-planner-2t44xjzzh-ayushraj08s-projects.vercel.app/",
+        link: "https://fresh-bites-solution.vercel.app/",
     },
 
     {
